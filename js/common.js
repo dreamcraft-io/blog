@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
     toggleTheme = document.querySelector(".toggle-theme"),
     btnScrollToTop = document.querySelector(".top");
 
+    syncLogoWithDarkMode();
 
   /* =======================================================
   // Menu + Search + Theme Switcher
@@ -76,11 +77,21 @@ document.addEventListener("DOMContentLoaded", function() {
       html.classList.remove('dark-mode');
       localStorage.removeItem("theme");
       document.documentElement.removeAttribute("dark");
+      syncLogoWithDarkMode();
     } else {
       html.classList.add('dark-mode');
       localStorage.setItem("theme", "dark");
       document.documentElement.setAttribute("dark", "");
+      syncLogoWithDarkMode();
     }
+  };
+
+  function syncLogoWithDarkMode() {
+    if (html.classList.contains('dark-mode')) {
+        document.getElementById("id_logo_image_identifier").src = localStorage.getItem("site_logo_url_dark_mode");
+     } else {
+        document.getElementById("id_logo_image_identifier").src = localStorage.getItem("site_logo_url");
+     }
   };
 
 
