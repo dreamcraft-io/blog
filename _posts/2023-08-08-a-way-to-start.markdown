@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Kickstarting Your Creative Journey in Mobile Development'
-description: 'Overcoming the initial hurdles in mobile development: Transforming a blank slate into a masterpiece.'
+title: 'Unlocking Creativity: Mastering the Blank Canvas Dilemma'
+description: 'Overcoming the initial hurdles: Transforming a blank slate into a masterpiece.'
 date: 2023-08-08 00:00:00 +Timezone
 author: dragos
 image:  '/images/articles/wayToStart.png'
