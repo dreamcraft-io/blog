@@ -5,7 +5,6 @@ description: 'From design principles to technology integrations, discover the es
 date: 2023-09-08 00:00:00 +Timezone
 author: dragos
 image:  '/images/articles/nextLevelApp.png'
-video_embed:
 tags:   [Swift Evolution, swift 5, tutorial, iOS, macOS, uikit, watchkit, tvos, watchos, iphone, apple]
 tags_color: '#0000FF'
 featured: true
