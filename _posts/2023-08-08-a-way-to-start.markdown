@@ -10,8 +10,6 @@ tags: [Mobile Development, UI/UX Design, Creativity in Development, Starting Str
 tags_color: '#0000FF'
 featured: true
 ---
-
----
 Staring at an empty canvas—whether it's a physical piece of paper or a new project—presents both a challenge and an opportunity. Such a void promises infinite possibilities but also demands that critical first move. For every creator, the spark of an idea is potent. Once initiated, ideas have a momentum of their own. But making that first mark? That can be the most daunting step.
 
 This post isn't about diving deep into niche domains; there are myriad resources online for those. Instead, this is about embarking on any creative journey. In our connected age, with just a device and internet, we can conceive, craft, and share our visions globally. Here's some guidance to overcome the initial struggle:
