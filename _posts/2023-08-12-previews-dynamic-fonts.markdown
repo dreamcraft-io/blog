@@ -2,7 +2,7 @@
 layout: post
 title: "Xcode Previews for Dynamic Font Sizes: Boosting App Accessibility for 25% of iOS Users"
 description: "A comprehensive tutorial on leveraging Xcode previews to optimize dynamic font sizes in iOS apps, thereby enhancing user engagement."
-date: 2023-08-13 00:00:00 +Timezone
+date: 2023-08-12 00:00:00 +Timezone
 author: dragos
 tags:
   - Swift Evolution
@@ -23,7 +23,7 @@ tags:
   - Dynamic Font Sizes
   - Xcode Previews
 image:  '/images/articles/grow-25.png'
-featured: true
+published: true
 ---
 
 In the realm of iOS app development, understanding user preferences is paramount. Recent studies, including insights from [PSPDFKit research](https://twitter.com/steipete/status/1052589183225815040?lang=en) and observations from [@bloom_life](https://twitter.com/Apokrupto/status/1098917839073931264), reveal a significant trend: over a quarter of iOS users prefer non-default text sizes. This highlights the necessity of dynamic font sizes for modern app development.

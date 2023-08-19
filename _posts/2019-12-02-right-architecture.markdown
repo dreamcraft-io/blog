@@ -8,7 +8,7 @@ image:  '/images/articles/architecture.png'
 video_embed:
 tags:   [Outsource Software Development, Software Design, Dreamcraft Tips, Efficient Coding, Scalable Software]
 tags_color: '#ffa500'
-featured: true
+published: true
 ---
 
 Picking the best software architecture for your project is crucial, especially in mobile development where user experience is paramount. It's not just about what's popular or what worked for another project. It's about understanding what will work best for your specific needs.

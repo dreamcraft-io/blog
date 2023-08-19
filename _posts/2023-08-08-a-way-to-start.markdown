@@ -8,7 +8,7 @@ image:  '/images/articles/wayToStart.png'
 video_embed:
 tags: [Mobile Development, UI/UX Design, Creativity in Development, Starting Strategies, Dreamcraft Tips, Design Inspiration, Development Techniques]
 tags_color: '#0000FF'
-featured: true
+published: true
 ---
 Staring at an empty canvas—whether it's a physical piece of paper or a new project—presents both a challenge and an opportunity. Such a void promises infinite possibilities but also demands that critical first move. For every creator, the spark of an idea is potent. Once initiated, ideas have a momentum of their own. But making that first mark? That can be the most daunting step.
 

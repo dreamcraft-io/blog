@@ -7,7 +7,7 @@ author: dragos
 image:  '/images/articles/nextLevelApp.png'
 tags:   [Swift Evolution, swift 5, tutorial, iOS, macOS, uikit, watchkit, watchos, iphone, apple]
 tags_color: '#4c49cb'
-featured: true
+published: true
 ---
 The world of mobile app development is vast and constantly evolving. After spending over seven years in this industry, Ive seen firsthand how an app transitions from good to exceptional.
 
