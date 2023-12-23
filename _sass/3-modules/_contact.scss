@@ -49,3 +49,23 @@
     border-color: var(--brand-color);
   }
 }
+
+.form-success {
+  color: #00a738;
+  border-radius: 2px;
+  font-size: 20px;
+  font-weight: 900;
+  display: none;
+  text-align: center;
+  padding: 30px;
+}
+
+.form-failure {
+  color: #ff3a1b;
+  border-radius: 2px;
+  font-size: 20px;
+  font-weight: 900;
+  display: none;
+  text-align: center;
+  padding: 30px;
+}
