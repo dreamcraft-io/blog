@@ -5,7 +5,7 @@ description:
 permalink: /contact/
 image: '/images/contact.jpg'
 ---
-
+<script src="{{ site.baseurl }}/js/mailsubmit.js" async></script>
 <div class="form-box">
   <div class="contact-head">
   {% if site.data.settings.contact.description %}
@@ -26,7 +26,13 @@ image: '/images/contact.jpg'
       <textarea class="form__input" id="form-text" name="text" rows="8" placeholder="Your message..." required></textarea>
     </div>
     <div class="form__group">
-      <button class="button" type="submit">Send Message</button>
+      <button id="id-contact-submit-button" class="button" type="submit">Send Message</button>
     </div>
   </form>
+  <div id="id-contact-success" class="form-success" aria-label="Email Form success">
+    <div>Thank you! Your submission has been received!</div>
+  </div>
+  <div id="id-contact-failure" class="form-failure" aria-label="Email Form failure">
+    <div>Oops! Something went wrong while submitting the form.</div>
+  </div>
 </div>

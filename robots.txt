@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Disallow: /_site/images/
+Allow: /_site/

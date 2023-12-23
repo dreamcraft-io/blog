@@ -19,7 +19,7 @@ menu__settings:
       url: '/authors/'
     - title: 'Pages'
       submenu:
-      - url: 'https://dreamcraft.io'
+      - url: 'https://dreamcraft.io/about'
         title: 'About'
       - url: '/contact/'
         title: 'Contact'
@@ -38,8 +38,8 @@ hero:
 # Author Global Settings
 author:
   author__name: Vitalie Croitor
-  author__bio:  I have more than 12 years of experience as a software developer, consultant, and mentor. 
-  author__avatar: /images/profile-vitalie.jpeg
+  author__bio:  I have more than a decade of experience as a software developer, consultant, and mentor. 
+  author__avatar: /images/profile-vitalie.jpg
 
 
 #-------------------------------
@@ -70,11 +70,11 @@ tag__settings:
 author__section:
   enable: false
   author__section__title: Hello, my name is Vitalie. I'm an software engineer and mentor.
-  author__section__description: I have more than 12 years of experience as a software developer, consultant, and mentor. 
+  author__section__description: I have more than a decade of experience as a software developer, consultant, and mentor. 
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
-  author__section__big__image: /images/profile-vitalie.jpeg
-  author__section__small__image: /images/profile-vitalie.jpeg
+  author__section__big__image: /images/profile-vitalie.jpg
+  author__section__small__image: /images/profile-vitalie.jpg
 
 
 #-------------------------------
@@ -97,7 +97,7 @@ footer__description: Don't hold yourself back or fear failure. We often limit ou
 # Social Links
 social:
 - {icon: "chrome", link: "https://dreamcraft.io"}
-- {icon: "linkedin", link: "https://www.linkedin.com/in/dragos-dreamcraft/"}
+- {icon: "linkedin", link: "https://www.linkedin.com/company/dreamcraftio/"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -109,7 +109,7 @@ footer__menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'About'
-      url: 'https://dreamcraft.io'
+      url: 'https://dreamcraft.io/about'
     - title: 'Contact'
       url: '/contact/'
 

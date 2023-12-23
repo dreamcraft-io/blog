@@ -1,7 +1,7 @@
 ---
 username: dragos
 name: Dragos Resetnic
-image: '/images/profile-dragos.jpeg'
+image: '/images/profile-dragos.jpg'
 cover:
 location: Cluj-Napoca
 website: https://www.dreamcraft.io
