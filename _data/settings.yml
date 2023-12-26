@@ -21,7 +21,7 @@ menu__settings:
       submenu:
       - url: 'https://dreamcraft.io/about'
         title: 'About'
-      - url: '/contact/'
+      - url: 'https://dreamcraft.io/contact'
         title: 'Contact'
 
 
@@ -111,7 +111,7 @@ footer__menu__settings:
     - title: 'About'
       url: 'https://dreamcraft.io/about'
     - title: 'Contact'
-      url: '/contact/'
+      url: 'https://dreamcraft.io/contact'
 
 
 #-------------------------------
