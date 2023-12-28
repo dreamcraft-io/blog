@@ -3,53 +3,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-      <loc>https://dreamcraft.io/</loc>
-      <lastmod>2023-12-23</lastmod>
+      <loc>https://blog.dreamcraft.io/</loc>
+      <lastmod>2023-12-28</lastmod>
    </url>
 
    <url>
-      <loc>https://dreamcraft.io/about/</loc>
-      <lastmod>2023-12-23</lastmod>
+      <loc>https://blog.dreamcraft.io/posts/</loc>
+      <lastmod>2023-12-28</lastmod>
    </url>
 
     <url>
-      <loc>https://dreamcraft.io/contact/</loc>
-      <lastmod>2023-12-23</lastmod>
+      <loc>https://blog.dreamcraft.io/authors/</loc>
+      <lastmod>2023-12-28</lastmod>
    </url>
 
    <url>
-      <loc>https://dreamcraft.io/projects/project-artios/</loc>
-      <lastmod>2023-12-23</lastmod>
+      <loc>https://blog.dreamcraft.io/posts/right-architecture/</loc>
+      <lastmod>2023-12-28</lastmod>
    </url>
 
    <url>
-      <loc>https://dreamcraft.io/projects/project-swiftlane/</loc>
-      <lastmod>2023-12-23</lastmod>
+      <loc>https://blog.dreamcraft.io/posts/exploring-the-latest-innovations-and-features-for-a-seamless-mobile-experience/</loc>
+      <lastmod>2023-12-28</lastmod>
    </url>
 
    <url>
-      <loc>https://dreamcraft.io/projects/project-motiontools-android/</loc>
-      <lastmod>2023-12-23</lastmod>
+      <loc>https://blog.dreamcraft.io/posts/a-way-to-start/</loc>
+      <lastmod>2023-12-28</lastmod>
    </url>
 
    <url>
-      <loc>https://dreamcraft.io/projects/project-bancamea/</loc>
-      <lastmod>2023-12-23</lastmod>
+      <loc>https://blog.dreamcraft.io/posts/best-mobile-app-principles/</loc>
+      <lastmod>2023-12-28</lastmod>
    </url>
 
    <url>
-      <loc>https://dreamcraft.io/projects/project-artini/</loc>
-      <lastmod>2023-12-23</lastmod>
+      <loc>https://blog.dreamcraft.io/posts/previews-dynamic-fonts/</loc>
+      <lastmod>2023-12-28</lastmod>
    </url>
 
    <url>
-      <loc>https://dreamcraft.io/projects/project-savorlive/</loc>
-      <lastmod>2023-12-23</lastmod>
+      <loc>https://blog.dreamcraft.io/posts/outsource-guide/</loc>
+      <lastmod>2023-12-28</lastmod>
    </url>
-
-   <url>
-      <loc>https://dreamcraft.io/projects/project-framework/</loc>
-      <lastmod>2023-12-23</lastmod>
-   </url>
-
 </urlset> 
