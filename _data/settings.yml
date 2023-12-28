@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Dreamcraft
+title: Dreamcraft Mobile App Development & Custom Software Agency
 logo: '/images/dreamcraft-logo.svg' # You can add own logo. For example '/images/logo.png'.
 logo_dark_mode: '/images/dreamcraft-logo-dark-mode.svg'
-description: Dreamcraft technical blog
+description: Dreamcraft Blog Mobile App Development and custom software agency specializing in innovative solutions, outsourcing, and exceptional user experiences.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -13,8 +13,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Posts'
+      url: '/posts/'
     - title: 'Authors'
       url: '/authors/'
     - title: 'Pages'
