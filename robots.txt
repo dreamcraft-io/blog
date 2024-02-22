@@ -1,3 +1,6 @@
+---
+layout: none
+---
+Sitemap: {{ site.url }}/sitemap.xml
 User-agent: *
-Disallow: /_site/images/
-Allow: /_site/
+Disallow: {{ site.url }}/_site/images/
